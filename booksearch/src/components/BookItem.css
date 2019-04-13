@@ -1,0 +1,13 @@
+.my-container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  height: 100%;
+
+}
+div.card {
+width: 200px;
+}
+div.card img {
+  
+}
